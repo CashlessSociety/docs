@@ -1,0 +1,64 @@
+@Miles [  ] generally denote side thoughts
+
+0) Introduction [or use "Where to start" as your intro and have 0) as Overview?]
+1) Where to start 
+- "Cashless is aimed at..."[high-level impact] ;; "We're working on peer-to-peer credit"
+- Values & Principles (primer) 
+        Fair - Reducing inequality is at the heart of what we are doing.
+        Robust - By distributing risk we are building a form of credit suited to changeable times ahead.
+        Compassionate - We believe in a kinder and gentler form of money.
+        Transparent - Data needs boundaries but corruption, inequality and instability grow in darkness.
+        Distributed - We are building structures that put the user in control of their own data, and their own credit.
+
+- We're doing a DAO. 
+By helping out with Cashless you are joining the experiment of participant democracy. Decision-making by relation. 
+We work together, and together we'll shape what this becomes. You're a part of it.
+You don't have to be here for everything, everywhere you show up  you make a difference. Thank you for that. Remember to stay regenerative - do what you're able, if something feels to much or you've overcomitted, it's ok, ask for help! [but don't take the mickey..]
+- Getting signed up (includes read the code of conduct) [do we expect explicit agreements from entrants and how will that be recorded? "I undertake to blah blah"? Do our expectations differ for Advisors?;; push to Trello]
+- Clarify expectations (includes what you can expect from us)
+- Where do comms happen (join the comms! and next steps)
+
+- Next steps: 
+1b) Next Steps
+- Get familiar with Cashless (a.k.a. what the hell actually is a Cashless Society) [Reference (or embed) pitch video]
+- Get set up on Colony to take part in payment & governance (reference MoU/tldr) [Primer on Colony & link Resources]
+- Expectations [for different classes of participant, hodler, advocate, bounty, seasonal, staff etc?] 
+- Getting into workflow (sorting hats & summoning circles)
+    "familiarize yourself with Cashless and how Colony works for us in 1b) Next Steps, then come explore our <a>Slack or whatever</a>
+- Credit where credit's due [process - payment in tokens for those signed up]
+- Ongoing [You've graduated. With all those things done, where to next? Just needs to be a quick outro sentence and thankyou probably]
+
+2) Values & Principles (invite participation) [is this section actually 2) Overview with 2a) Values & Principles 2b) Cashless Structure/Entity or some other.. @Miles?]
+- Values proper
+- Participation (what does this sound & look like?)
+
+3) Key links & resources
+- Pitch/overview video
+- [Where to find tasks/how to get into workflow? Should this be duplicated or moved to Where to start?]
+- [Help with] Colony Stuff (also Metamask?) [is it ok to basically pullquote the Colonony TLDR for this or does it need further distilling... probably]
+- MoU
+- Godlike White paper
+- Other cool stuff (Credit Commons, maybe acknowledge TEC, anyone else?)
+- [@Miles is there other important stuff to go in here?]
+- [link white paper]
+
+4) Code of conduct (plain sight, top of heirarchy or nested? I think plain sight).
+
+
+5) Governance
+- MoU (again): I suppose include a laypersons explanation and reference link to the doc.
+
+6) What we're up to
+- Schedule & steps (Summoning Circle)
+- Roadmap
+- Specific projects we're working on? [some or all of these might be chapters of themselves? @Miles could use a hand thinking about the structure here]
+- Specific calls for help?
+
+7) Still stuck? / FAQ ["still stuck? Get in touch"]
+8) Team & About us?
+9) White Paper
+10) Acknowledgements?
+11) Contacts? [likely not necessary... fair to expect them to find another way i.e. just google us or go to our website..]
+
+8) Acknowledgement of Te Tiriti [and yes, Te Tiriti as opposed to the English translation]. 
+- some vocab for the fine people of The World At Large who might appreciate 

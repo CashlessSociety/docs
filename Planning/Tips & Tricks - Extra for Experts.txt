@@ -1,0 +1,4 @@
+Tame your Github notifications
+- If you want, you can unfollow 
+Click the bell up the top right of Github (it probably has a blue circle on it)
+Go to "Update watching settings" [https://github.com/watching]. From here click "Participating and @mentions" to unwatch notes from github in which you aren't mentioned/ don't participate in.

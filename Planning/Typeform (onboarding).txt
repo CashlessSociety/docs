@@ -1,0 +1,34 @@
+What goes in the Typeform?
+
+Intro/primer about Cashless
+We're building a Dao, are you happy to recieve tokens sometimes?
+Name (full)
+What timezone do you live in
+What do you do for life & love? (hobbies, passion, inspirations)
+Why are you interested to get involved with Cashless? [rephrase or parse as What skills can you contribute?]
+Professional/skill interests (web-design, DAO governance, programming etc) ;; what do you want to build (what benefit by being involved with Cashless)
+Gauge understanding of general principles (credit clearing, interest-bearing debt, de-fi, DAO etc)
+COMMS - What are you familiar with
+COMMS - Best way to get in touch
+COMMS - Email just in case
+[outro & next steps?] - link Gitbook probably
+
+
+
+//TASKS
+Add ending segment to Typeform [/done]
+Rework end segment with appropriate socials, next step links
+Resolve: Add intro section, forward intro bit to Discord? [Personally, nice in the beginning if we can do personal intros that just reference the intro field they populated in typeform]
+
+// COMMENTS
+// Will need basic membership for >10 questions = $25USD/mo for duration of intake. 
+// Basic membership also required to field >100 responses/mo.
+
+//FEEDBACK
+interests question - text box not choices
+
+1st survey, 2nd survey.
+1- keen to know about gauging interest
+how interested? (curious - potentially contributing if it fits - let me in or die!) 1-5 it
+let them express themselves - "anything you want to add?"
+

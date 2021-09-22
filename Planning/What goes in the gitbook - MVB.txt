@@ -1,0 +1,19 @@
+Minimal viable [git]book.
+
+1) First steps - Getting started
+	- WTF is Cashless?
+	- Jump in the comms
+	- Critical agreements
+2) Vision & Values
+3) What Cashless actually does
+4) We're working on it
+- A DAO
+		- governance
+		- payment
+- The App
+		- Roadmap?
+-[other?]
+5) Key resources
+6) If you get stuck go here
+- Kaitiaki contact dets
+- [house FAQ here eventually]

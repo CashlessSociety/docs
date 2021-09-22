@@ -1,0 +1,48 @@
+Stray resources here mostly for Dean's reference.
+If you have something cool, add it! :-)
+
+https://ff.mirror.xyz/UJa9qpbbYftlN4xMOD9W3TBgeJS3gxK8ec4FKUJFhuM
+
+"Although the community members (ourselves included) aren’t really assigned “jobs”, members seem to be flowing through zones based on energy level, internal work demand, personal capabilities, and preferences.
+
+We’ve identified three main Contribution Zones so far: Casual, Core, & Staff."
+
+
+
+(1) CASUAL: Signaling, passive activity, varied financial investment.
+
+Casual contributors can participate very flexibly on an ad-hoc basis. They're invested in DAO success and complete available tasks (bounties) when they desire.
+
+(2) CORE: Production, moderate activity, moderate financial investment.
+
+Core Contributors are responsible for getting stuff done within their respective domain. They push forward the agenda, create bounty opportunities, and engage other stakeholders throughout the process.
+
+(3) STAFF: Stewardship, high activity, high financial investment.
+
+Staff members are responsible for enacting the community voice and making high-level decisions around product and vision. In other words, making sure the DAO is pointed in the right direction.
+
+'These zones shift the operational focus from a central process of “distinct jobs and activities” to a member-led process based on “commitment and investment level.” - [ well suited to Colony model]
+
+[token holder, bounty hunter, core contributor, staff] - advisor sitting in here somewhere, maybe different tones of advistors tbf. 
+
+
+
+
+Feedback - just need to be seen to be working on it [gitbook etc]
+
+don't wait on advisors for callout to public
+don't differentiate in process so much btwn "invitees" [not advisors] and incoming self-selected folk
+
+minimal gitbook & typeform
+
+book - add mention of zones of activity. 
+multiple ways to interact with a dao. People can hold multiple hats
+Advisor
+Core
+Contributor
+Cheerleader 
+Token holder
+
+vis colony of it there that we can onboard the important people in a way that feels good
+that means giving tokens to people as part of them getting signed in
+that means setting up colony and clarifying existing stuff

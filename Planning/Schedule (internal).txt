@@ -1,0 +1,30 @@
+BLOCK - Set up Trello CRM
+Link to typeform [done]
+
+BLOCK/Alongside - Gitbook
+The gitbook documents should be in place as a really-MVP.
+Draw up what's in the book [~80% done]
+
+BLOCK - Advisors
+[Things we probably need before Approaching Advisors include: 1: Definitely - Prelim Colony setup 2) Probably gitbook documentation.]
+
+Brainstorm - Identify first round of advisors to approach
+ - book date for this convo (soon)
+Talks with individuals (one on one - allow 4 weeks to find space to warm up, but expected to be approaching them week 1)
+[/Approaching advisors closes]
+[Advisors begin to trickle in across time, we somehow orient them, also collecting any agreements/signatures required]  - DEPENDENCY - CRM [& Gitbook?]
+All advisors(ish) are in, first call together, group whakawhanaungatanga [how is this done without the nightmarish qualities of zoom - maybe do a call-only format (Lex Fridman mentioned this new internet call group phenomona...)]
+Add advisors to site & issue tokens
+[Begin Public self-invite phase when? as a trigger from the completion of Advisors task would be the conservative approach.
+Probably important also that the environment be suited to the advisors preferences/modes of working to some extent, first & foremost? 
+
+ALONGSIDE - Build External Schedule
+
+
+
+
+Dependencies
+CRM
+Clarity: on token allocation to advisors [Miles holding]
+Clarity: on any documents & agreements we want signed
+
