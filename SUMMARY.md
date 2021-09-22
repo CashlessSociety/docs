@@ -6,7 +6,7 @@
 
 * [Vision & Values](vision-and-values/vision-and-values.md)
 
-## Cashless is <a id="cashless-is..."></a>
+## Cashless is...
 
 * [Cashless in detail](cashless-is.../cashless-in-detail.md)
 
