@@ -6,10 +6,6 @@
 
 * [Vision & Values](vision-and-values/vision-and-values.md)
 
-## Cashless is...
-
-* [Cashless in detail](cashless-is.../cashless-in-detail.md)
-
 ## What we're working on
 
 * [Summary](what-were-working-on/summary.md)
