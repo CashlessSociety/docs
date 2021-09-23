@@ -2,7 +2,7 @@
 
 ## Credit clearing? Colony.io? Git-what?
 
-### Don't worry, we've got your back
+#### Don't worry, we've got your back
 
 There can be a lot to get your head around in these sort of projects. It's fine to feel confused or a bit out of your depth, we've been there!
 

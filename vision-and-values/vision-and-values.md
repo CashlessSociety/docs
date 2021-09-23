@@ -1,7 +1,9 @@
 # Vision & Values
 
-Cashless works to help people do more together by creating better access to credit.  
-The world needs regenerative ways to share and exchange value. We won't be doing it alone.
+## Financially Free, Together.
+
+**Cashless works to help people do more together by creating better access to credit.  
+The world needs regenerative ways to share and exchange value. We won't be doing it alone.**
 
 The boundary of this collaboration is _good people working on peer-to-peer mutual credit which is_:
 

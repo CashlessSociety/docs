@@ -10,11 +10,11 @@
 
 * [Summary](what-were-working-on/summary.md)
 * [Governance \(Dare to DAO\)](what-were-working-on/governance-dare-to-dao.md)
-* [Recognition \(Tokens & Colony\)](what-were-working-on/recognition-tokens-and-colony.md)
 
 ## Key Resources
 
 * [Code of Conduct](key-resources/code-of-conduct.md)
+* [MoU to DAO](key-resources/mou-to-dao.md)
 
 ---
 
