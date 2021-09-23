@@ -17,3 +17,6 @@ Minimal viable [git]book.
 6) If you get stuck go here
 - Kaitiaki contact dets
 - [house FAQ here eventually]
+
+
+// ? Telegram #'s for Dean & Miles under Stuck section?

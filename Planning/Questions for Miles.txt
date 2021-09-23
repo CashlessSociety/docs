@@ -2,34 +2,11 @@ Gitbook - What's off the table democratically in terms of Vision & Values? What 
 
 Is Colony part of the container (resolved yes, Miles to tackle)
 
-
 === New/unresolved ===
-Trello invite - Preferred email?
 
 How to gauge enthusiasm/capacity to input without being like "how keen are you 1-5"?
 Maybe we actually leave this out honestly. It puts people on the spot & is variable over time anyway.
 
 Clarity: Do we want signatures to anything in particular? Code of Conduct?
 
-Do github/docs and gitbook connect somehow? What are some Gitty first principles
-
-
-<<<<<<< HEAD
-=======
-[from Dependencies, Schedule (Internal).txt]
-Clarity - is the gitbook a dependency for the second half of Advisors (receiving/onboarding: are we ok with approaching them, them saying "yeah great I'll join tomorrow" and joining into an environment without that stuff- without having moved to Slack,  changing comms channels partway etc.. 
-^This part of the process will benefit from being thought out well, it's a bit of a priority.
-CRM <- for latter bit of Advisors
-Clarity: on token allocation to advisors
-Clarity: on any documents & agreements we want signed
-Gitbook - Dean learns [create/delete/move docs, general best practice, design advise]
-
-Should we include something about "right to revoke" basically? Grounds for dismissal etc?
-
-Aragon Dao Charter
-https://docs.google.com/document/d/1ojNfYMkYG1empPCI1CKxcB61cTCe0m9e8XTnNZGG7xQ/edit#heading=h.kxkb5z4d2an5
-
-"The Aragon Manifesto: A pledge to fight for freedom
-	
-	
->>>>>>> 9d0e6a7658f320dd0d177809341ab7a9fecba35a
+Comms in Gitbook - List email & cell # for telegram of Miles & Dean as points of contact in "Stuck?"
