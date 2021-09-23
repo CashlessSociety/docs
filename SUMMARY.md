@@ -19,4 +19,5 @@
 ---
 
 * [Stuck? Go here :-\)](stuck-go-here.md)
+* [Acknowledgements](acknowledgements.md)
 
