@@ -8,7 +8,7 @@
 
 ## What we're working on
 
-* [Summary](what-were-working-on/summary.md)
+* [Overview](what-were-working-on/summary.md)
 * [Governance \(Dare to DAO\)](what-were-working-on/governance-dare-to-dao.md)
 
 ## Key Resources
