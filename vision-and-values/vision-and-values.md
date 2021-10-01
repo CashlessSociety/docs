@@ -3,9 +3,18 @@
 ## Financially Free, Together.
 
 **Cashless works to help people do more together by creating better access to credit.  
-The world needs regenerative ways to share and exchange value. We won't be doing it alone.**
+We are building an app and protocol to:**
 
-The boundary of this collaboration is _good people working on peer-to-peer mutual credit which is_:
+1. **Make it easy to extend credit** to the people you choose to trust, and;
+2. Connect communities into networks that can trust each other and **share better together**.
+
+Our hope in doing so is to help people be the source of their own wealth, instead of depending on harmful financial paradigms like interest-bearing debt \(yuck\). _The world needs regenerative ways to share and exchange value. We won't be doing it alone._
+
+#### **The cornerstone of this collaboration:** _**good people working on peer-to-peer mutual credit:**_
+
+We recognize these values as seriously cool, and the vital forces of our endeavour. By taking part in a Cashless Society, we agree to uphold these principles, with the vision of seeing more of them in the world.
+
+_**Cashless envisions a future that is:**_
 
 **Fair** - Reducing inequality is at the heart of what we are doing.  
 **Robust** - By distributing risk we are building a form of credit suited to changeable times ahead.  

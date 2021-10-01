@@ -5,6 +5,7 @@
 ## Vision & Values
 
 * [Vision & Values](vision-and-values/vision-and-values.md)
+* [Yes, but what does it actually DO?](vision-and-values/yes-but-what-does-it-actually-do.md)
 
 ## What we're working on
 

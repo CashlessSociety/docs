@@ -8,7 +8,7 @@ description: They say every great journey began with another newfangled Comms pl
 
 ### _**Cashless is an alternative way to keep track of credit through communities.**_ 
 
-We're working to help people **do more together by creating better access to credit**. It does this by connecting people with skills to people with needs, and intelligently tracking networks of sharing in community.
+We're working to help people **do more together by creating better access to credit**. Cashless App will do this by connecting people with skills to people with needs, and intelligently tracking networks of sharing in community.
 
 _"We provide trust and transparency but you are your own bank."_
 
@@ -22,10 +22,10 @@ We would love for you to join us and take part at whatever level feels right for
 
 There are 4 quick steps to getting on board and you can dive right in. 
 
-1. [ ] Read through [vision & values](vision-and-values/vision-and-values.md) and [our website](https://cashless.social/) - be clear on what we're about.
-2. [ ] Read and sign the [code of conduct](key-resources/code-of-conduct.md) so you know what's fair community behaviour.
-3. [ ] Fill in our [typeform](https://deanharliwich.typeform.com/to/erYOECZh) survey so we know you're interested and can get in touch with you.
-4. [ ] Jump on the [Discord](https://discord.gg/EfSwMEXmtg) and join the conversation!
+1. [ ] **Be clear what we're about:** Read through [vision & values](vision-and-values/vision-and-values.md) and [our website](https://cashless.social/)
+2. [ ] **Agree to be kind:** Read and sign the [code of conduct](key-resources/code-of-conduct.md) so you know what's fair community behaviour.
+3. [ ] **Put your hand up:** Fill in our [typeform](https://deanharliwich.typeform.com/to/erYOECZh) so we know you're interested and can get in touch with you.
+4. [ ] **Come say hi:** Jump on the [Discord](https://discord.gg/EfSwMEXmtg) and join the conversation!
 
 Easy :-\) You're in! If you want to sign up as a member of the DAO, hold tight, we're working on that. For now we can't wait to see you in the Discord, or in the weekly [open catchups](https://bbb.hypha.coop/b/mil-l9s-elb-tws) held every Wednesday, [9am NZT](https://time.is/0900_14_Apr_2021_in_Wellington/Vancouver/EDT/Brazil) \(GMT+12\).
 
