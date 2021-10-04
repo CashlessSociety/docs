@@ -9,4 +9,52 @@ Maybe we actually leave this out honestly. It puts people on the spot & is varia
 
 Clarity: Do we want signatures to anything in particular? Code of Conduct?
 
-Comms in Gitbook - List email & cell # for telegram of Miles & Dean as points of contact in "Stuck?"
+Comms in Gitbook - 
+	Getting Started - Who to list as PoC for "if you have any quizzes, questions or queries"
+	Stuck? page - List email & cell # for telegram of Miles & Dean as points of contact
+
+Note - wording change "the cornerstone of this collaboration" - boundary felt unclear
+
+
+/ Wednesday
+Typeform is at prefinal draft. Likely last round of input & corrections.
+Code of Conduct - is this good? Those are actually our values, there is a more formal (and pretty dense) Code of Conduct in the Gitbook, how to weave this together (Getting Started will need updating as an outcome)
+
+Typeform premium trial expires today. 
+For smoother directing, premium allows a link-through button instead of the "again" button at the end.
+
+End slide:
+What social icons (they're restricted to f,tw,L'in)
+Do we want end slide to speak along the lines of "thanks, we'll be in touch soon, you're not necessarily part of the family yet because we're so hip & exlusive" or "great, you begin deciding your own level of involvement now, we'll be in touch, but here's some stuff to get started if you want [<a>gitbook]"?
+
+Gitbook:
+Getting Started - Include Discord invite in the Gitbook or defer to typeform/personal invitation?
+Add Miles' existing video here y/n?
+
+Vision & Values 
+	- Feels unfinished. Nice that it's short though honestly. Is something missing?
+
+"Yes but what does it actually do"
+	- This section probably has to go in the book, based on feedback from Miles' friend about the site. Need some images and a clear explanation (can link your excisting video here also Miles...).
+	- I probably need a hand with this bit. 
+
+Overview
+	- Copy of existing roadmap please?
+	- What else if anything should go here
+
+Governance (Dare to Dao)
+	- need link for MoU.
+
+MoU to DAO
+	- I think this would be better as a "Key links" page. What really needs to go on here yknow? A link and maybe 1 sentence.
+
+Stuck? Go here
+	- ACTION: Miles to get Dean a cashless email?
+
+
+
+OUTCOMES:
+Dean rework Start page
+Miles get Dean a Cashless email
+Miles provide link to MoU
+Miles to help writing "What's it do"?
