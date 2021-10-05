@@ -4,19 +4,20 @@
 
 ### We've come a long way. We would really like to express our great gratitude for a few people.
 
-To the minds that imagine our possibilities, and the hands, hearts, coding & creativity that achieve them  
-To the growers and distributors of food, caretakers of the biosphere  
-To the guardians who raised us and the elders who guided them when they too, acted like fools  
-To the world that supports us despite our dumb decisions.
+* To the minds that imagine our possibilities, and the hands, hearts, coding & creativity that achieve them
+* To the growers and distributors of food, caretakers of the biosphere
+* To the guardians who raised us and the elders who guided them when they too, acted like fools
+* To the world that supports us despite our dumb decisions.
 
-### and these folk in particular:
+Some people that have been particularly influential:
 
-* David Graeber
-* Edgar Cahn \(creator of Timebanking
-* Michael Linton \(inventor of Lets\) 
+* David Graeber \(author of Debt: The First 5,000 Years\)
+* Edgar Cahn \(creator of Timebanking\)
+* Michael Linton \(inventor of Local Exchange Trading\) 
+* Satoshi Nakamoto \(inventor of the block chain\)
 * Tomaž Fleischman
-* Satoshi Nakamoto 
-* Everyone from Mutual Aid World group & the Good Good Wonderful crew
+* Everyone from the Mutual Aid World group 
+* The Good Good Wonderful crew
 
 ## Te Tiriti
 
