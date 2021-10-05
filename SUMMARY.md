@@ -10,7 +10,6 @@
 
 * [Yes, but what does it actually do?](protocol/yes-but-what-does-it-actually-do.md)
 * [Cashless Talk \(Video\)](protocol/cashless-talk-video.md)
-* [Whitepaper](protocol/whitepaper.md)
 
 ## Governance
 
