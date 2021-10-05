@@ -13,7 +13,7 @@ We're working hard alongside commons experts, Token & DAO-heads to build a decen
 
 Cashless.dao will work with a twin-token system of credit - In exchange for helping out, you can earn a stake in the project and earn votes to use in decision-making at the same time.
 
-You don't have to be part of our organization to contribute to the protocol, but if you want to become a member of the DAO, you can earn governance tokens that will give voting rights in the DAO and a share of any profits generated down the line. 
+You don't have to be part of our organization to contribute to the protocol, but if you want to become a member of the DAO, you can earn governance tokens that will give voting rights in the DAO and a share of any profits generated down the line.
 
 ### Tokens for governance
 
@@ -23,11 +23,11 @@ Governance tokens are not currently available for sale, but there will eventuall
 
 ### Tokens for helping with projects
 
-Use your skills and get paid in stake. Easy. 
+Use your skills and get paid in stake. Easy.
 
-When you're active in a project, you'll be credited through [_Colony.io_](https://colony.io/) for your time & contribution to whatever you're working on. 
+When you're active in a project, you'll be credited through [_Colony.io_](https://colony.io/) for your time & contribution to whatever you're working on.
 
-Tokens can be held \(invested\) and will gain value over time as _we_ gain value over time, traded out for fiat $$ \(a.k.a "Old money"\), or exchanges for services traded by other members of the group \(things like design & tech work, professional consultation etc\). 
+Tokens can be held \(invested\) and will gain value over time as _we_ gain value over time, traded out for fiat $$ \(a.k.a "Old money"\), or exchanges for services traded by other members of the group \(things like design & tech work, professional consultation etc\).
 
 As the project grows, the value of project tokens will grow. We'll use careful design and clever de-fi strategies like [token bonding curves](https://medium.com/coinmonks/token-bonding-curves-explained-7a9332198e0e) to create robust, reliable, _valuable_ tokens that you can use meaningfully to get things done, because after all:
 
