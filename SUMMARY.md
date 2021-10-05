@@ -13,9 +13,9 @@
 
 ## Key Resources
 
+* [Stuck? Go here :-\)](key-resources/stuck-go-here.md)
 * [Code of Conduct](key-resources/code-of-conduct.md)
 * [Acknowledgements](key-resources/acknowledgements.md)
-* [Stuck? Go here :-\)](key-resources/stuck-go-here.md)
 
 ## Governance
 

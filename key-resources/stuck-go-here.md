@@ -10,7 +10,7 @@ One day we'll build a F.A.Q. here. For now \(and always!\) just get in touch - w
 
 ## Just reach out
 
-There are lots of folk in [the Discord](https://discord.gg/EfSwMEXmtg) who are happy to help. Jump in and ask away in any channel, or reach out to Dean Harliwich or Miles any time :-\)
+There are lots of folk in the Discord who are happy to help. Jump in and ask away in any channel, or reach out to Dean Harliwich or Miles any time :-\)
 
 ### Key contacts
 
