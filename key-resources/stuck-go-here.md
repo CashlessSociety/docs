@@ -15,9 +15,9 @@ There are lots of folk in the Discord who are happy to help. Jump in and ask awa
 ### Key contacts
 
 * Miles Thompson
-  * Email: miles@cashless.social
+  * Email: miles at cashless.social
   * Telegram: [https://t.me/utunga](https://t.me/utunga)
 * Dean Harliwich
-  * Email: dean@cashless.social
+  * Email: dean at cashless.social
   * Telegram: 
 
