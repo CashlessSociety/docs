@@ -1,14 +1,34 @@
 ---
 description: >-
-  Everybody loves saving the world. What we like is actually getting it done.
-  Here's we we talk about the technicals of how the cashless protocol works.
+  Everybody loves saving the world but what are the details? For now a lot of
+  documentation is still actively  in progress but we do have working code and a
+  lot of theory almost ready to go.
 ---
 
 # Yes, but what does it actually do?
 
-`The technicals - The App & Protocol`  
-  
-_This section is still a WIP. Here are some headings we will aim to cover:_  
+### The code
+
+* The Ethereum smart contracts code, [here](https://github.com/CashlessSociety/cashless).
+* Code for the proof of concept \(deployed to main net late 2020\)  [here](https://github.com/CashlessSociety/cashless-express).
+* The code for our more user friendly MVP [here](https://github.com/CashlessSociety/cashless-ui).
+* Our MVP roadmap[ here](https://github.com/CashlessSociety/cashless-ui/issues/120)
+
+### **Proof of concept \(video\)**
+
+This proof of concept is quite old now. Karen has helped us a lot in creating a much more friendly user interface. But fwiw here**'**s a video of the proof of concept.
+
+{% embed url="https://www.youtube.com/watch?v=E5mtmTcKU8g" %}
+
+### Whitepaper
+
+Unfortunately the whitepaper is a work in progress so we can't show it right now, however this paper from 2019 gives some context on the core ideas.
+
+{% file src="../.gitbook/assets/thankful\_theory.md-at-master-utunga\_thankful.pdf" %}
+
+### The technicals
+
+_Here are some headings we will aim to cover in this section_  
   
 Concept: Vesting & Clearing
 
