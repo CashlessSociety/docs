@@ -5,17 +5,20 @@
 ## Vision & Values
 
 * [Vision & Values](vision-and-values/vision-and-values.md)
-* [Yes, but what does it actually DO?](vision-and-values/yes-but-what-does-it-actually-do.md)
 
-## What we're working on
+## The protocol <a id="protocol"></a>
 
-* [Overview](what-were-working-on/summary.md)
-* [Governance \(Dare to DAO\)](what-were-working-on/governance-dare-to-dao.md)
+* [Yes, but what does it actually do?](protocol/yes-but-what-does-it-actually-do.md)
+
+## Governance
+
+* [Overview](governance/summary.md)
+* [Governance \(Dare to DAO\)](governance/governance-dare-to-dao.md)
+* [MoU to DAO](governance/mou-to-dao.md)
 
 ## Key Resources
 
 * [Code of Conduct](key-resources/code-of-conduct.md)
-* [MoU to DAO](key-resources/mou-to-dao.md)
 
 ---
 
