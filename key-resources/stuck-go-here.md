@@ -16,8 +16,8 @@ There are lots of folk in [the Discord](https://discord.gg/EfSwMEXmtg) who are h
 
 * Miles Thompson
   * Email: miles@cashless.social
-  * Telegram:
+  * Telegram: [https://t.me/utunga](https://t.me/utunga)
 * Dean Harliwich
-  * Email: d.harliwich@gmail.com
+  * Email: dean@cashless.social
   * Telegram: 
 
