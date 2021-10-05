@@ -10,5 +10,21 @@ description: >-
 
 Vision & values weren't enough? Good. Let's look at the technicals.
 
-### Under the hood - The App & Protocol
+### `Under the hood - The App & Protocol`
+
+_**\[some things we might want to cover // d.h.\]**_
+
+Concept: Vesting & Clearing
+
+Concept: Networks of reciprocity
+
+Protocol & Token
+
+Ledger & User database
+
+Smart contracts
+
+Reputation
+
+Summary?
 

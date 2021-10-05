@@ -8,13 +8,13 @@ description: They say every great journey began with another newfangled Comms pl
 
 ### _**Cashless is an alternative way to keep track of credit through communities.**_ 
 
-We're working to help people **do more together by creating better access to credit**. Cashless App will do this by connecting people with skills to people with needs, and intelligently tracking networks of sharing in community.
+We're working to help people **do more together** by **creating better access to credit**. Cashless App will do this by connecting people with skills to people with needs, and intelligently tracking networks of sharing in community.
 
 _"We provide trust and transparency but you are your own bank."_
 
 ## **You're invited**
 
-We're building a DAO and plan to acknowledge everyone who helps with both a stake in the project and a say in the governance decisions. 
+We're building a DAO \([`what's that?`](https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work#:~:text=A%20decentralized%20autonomous%20organization%20%28DAO,and%20managed%20by%20their%20members.)\) and plan to acknowledge everyone who helps with both a stake in the project and a say in the governance decisions. 
 
 You don't have to join the DAO to contribute and participate, but know this - **the work that you do is awesome**, it's important! We wouldn't have reached out to share the project with you so early if it wasn't.
 

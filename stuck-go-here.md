@@ -4,7 +4,7 @@
 
 #### Don't worry, we've got your back
 
-There can be a lot to get your head around in these sort of projects. It's fine to feel confused or a bit out of your depth, we've been there!
+There can be a lot to get your head around in these sort of projects. It's fine to feel confused or a bit out of your depth, we've been there! Take your time. 
 
 One day we'll build a F.A.Q. here. For now \(and always!\) just get in touch - we're a team for a reason after all! :-\)
 
