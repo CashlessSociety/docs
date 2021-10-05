@@ -8,9 +8,11 @@ description: They say every great journey began with another newfangled Comms pl
 
 ### _**Cashless is an alternative way to keep track of credit through communities.**_ 
 
-We're working to help people **do more together** by **creating better access to credit**. Cashless App will do this by connecting people with skills to people with needs, and intelligently tracking networks of sharing in community.
+We're working to help people **do more together** by **creating better access to credit**. Cashless App will do this by connecting people with skills to people with needs, and intelligently tracking networks of sharing in community. List skills you want to trade, give & receive payment in an intelligent ERC20 token, and create & share value with people you trust in your neighbourhood and across the world.
 
 _"We provide trust and transparency but you are your own bank."_
+
+With Cashless, people create and extend credit to each other, building natural networks of reciprocity ****_\(sharing\)_. See our whitepaper for why this form of credit is the next step in distributed finance \(coming soon or @Miles Thompson in Discord for a sneak peak\).
 
 ## **You're invited**
 
