@@ -20,7 +20,7 @@ To the world that supports us despite our dumb decisions.
 
 ## Te Tiriti
 
-As a Kiwi-initiated adventure whose membership now spans many nations, we acknowledge Te Tiriti o Waitangi, the absolute sovereignty of tangata whenua in New Zealand, and the indigenous sovereignty of many nations.
+As a Kiwi-initiated adventure whose membership now spans many nations, we acknowledge Te Tiriti o Waitangi, the absolute sovereignty of tangata whenua in New Zealand, and the indigenous sovereignty of many nations. Sometimes we use Maori language to describe things. There are some really beautiful words and ideas baked into _Te Reo_ and if you want to know more about them or didn't understand something, always chime in and someone will explain :-\)
 
 _The practices of people who lived together, depending on- and in collaboration with- one another and the natural world is rarely more vital, more radical and revolutionary in all of history than it is today._
 

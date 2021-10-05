@@ -1,7 +1,5 @@
 # Code of Conduct
 
-## Code of Conduct
-
 ### Where this applies
 
 This code of conduct applies to contributions across the organization whether just a comment in a forum or a major contribution in another forum.
