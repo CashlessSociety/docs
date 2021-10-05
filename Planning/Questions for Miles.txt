@@ -58,3 +58,6 @@ Dean rework Start page
 Miles get Dean a Cashless email
 Miles provide link to MoU
 Miles to help writing "What's it do"?
+
+Side notes:
+Copy on the website might need changing. Act as your own bank - "See our whitepaper". Whitepaper's coming it's not going to be ready for several months _optimistically_ (Prove me wrong Miles ;-). 
