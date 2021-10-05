@@ -11,18 +11,15 @@
 * [Yes, but what does it actually do?](protocol/yes-but-what-does-it-actually-do.md)
 * [Cashless Talk \(Video\)](protocol/cashless-talk-video.md)
 
+## Key Resources
+
+* [Code of Conduct](key-resources/code-of-conduct.md)
+* [Acknowledgements](key-resources/acknowledgements.md)
+* [Stuck? Go here :-\)](key-resources/stuck-go-here.md)
+
 ## Governance
 
 * [Overview](governance/summary.md)
 * [Governance \(Dare to DAO\)](governance/governance-dare-to-dao.md)
 * [MoU to DAO](governance/mou-to-dao.md)
-
-## Key Resources
-
-* [Code of Conduct](key-resources/code-of-conduct.md)
-
----
-
-* [Stuck? Go here :-\)](stuck-go-here.md)
-* [Acknowledgements](acknowledgements.md)
 
