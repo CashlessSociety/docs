@@ -16,9 +16,7 @@ _"We provide trust and transparency but you are your own bank."_
 
 If you were invited to read this website, it's probably because **the work that you do is awesome.** It's important! We wouldn't have reached out to share the project with you so early on if it wasn't.  
   
-We're mission driven. Our primary goal is to create new, more friendly, more human centered ways of organizing and collaborating as people and building mutual credit. The mission comes first. But, acting as a non-profit is not an effective strategy to have the kind of impact we are after.  
-  
-So we're organising ourselves as a Decentralized Autonomous Organisation this allow us to acknowledge people who contribute meaningfully to this project with a project token. Project tokens give you both a financial stake in the the project as well as a say in the future of the project long term. [`You can read about DAOs here`](https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work#:~:text=A%20decentralized%20autonomous%20organization%20%28DAO,and%20managed%20by%20their%20members.) 
+We're organising ourselves as a Decentralized Autonomous Organisation this allow us to acknowledge people who contribute meaningfully to this project with a project token. Project tokens give you both a financial stake in the the project as well as a say in the future of the project long term. [`You can read about DAOs here`](https://cointelegraph.com/ethereum-for-beginners/what-is-a-decentralized-autonomous-organization-and-how-does-a-dao-work#:~:text=A%20decentralized%20autonomous%20organization%20%28DAO,and%20managed%20by%20their%20members.) 
 
 We would love for you to join us and take part at whatever level feels right for you. From lurking in the discord, to connecting us with people we ought to know, to getting hands-on with discussions & teamwork.
 
