@@ -13,6 +13,7 @@ description: >-
 * Code for the proof of concept \(deployed to main net late 2020\)  [here](https://github.com/CashlessSociety/cashless-express).
 * The code for our more user friendly MVP [here](https://github.com/CashlessSociety/cashless-ui).
 * Our MVP roadmap[ here](https://github.com/CashlessSociety/cashless-ui/issues/120)
+* Smart contract \(on ethereum\) address [here](https://etherscan.io/address/0x9c30cc03246443d6c9e211c298bbd94ef889151e#code) 
 
 ### **Proof of concept \(video\)**
 
