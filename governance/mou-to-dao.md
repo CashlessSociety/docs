@@ -1,2 +1,2 @@
-# MoU to DAO
+# MOU to DAO
 

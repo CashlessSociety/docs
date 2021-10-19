@@ -11,19 +11,18 @@
 
 Some people that have been particularly influential:
 
-* David Graeber \(author of Debt: The First 5,000 Years\)
-* Edgar Cahn \(creator of Timebanking\)
-* Michael Linton \(inventor of Local Exchange Trading\) 
-* Satoshi Nakamoto \(inventor of the block chain\)
+* David Graeber (author of Debt: The First 5,000 Years)
+* Edgar Cahn (creator of Timebanking)
+* Michael Linton (inventor of Local Exchange Trading)&#x20;
+* Satoshi Nakamoto (inventor of the block chain)
 * Tomaž Fleischman
-* Everyone from the Mutual Aid World group 
+* Everyone from the Mutual Aid World group&#x20;
 * The Good Good Wonderful crew
 
 ## Te Tiriti o Waitangi
 
-As a Kiwi-initiated adventure whose membership now spans many nations, we acknowledge Te Tiriti o Waitangi, the special relationship Tangata Whenua have with Aotearoa \(New Zealand\) and the indigenous sovereignty in many nations.   
-  
-International collaborators may occasionally come across Māori words or phrases which you may not be familiar with, but which have entered the mainstream vernacular here in Aotearoa. If you didn't understand something or want to know more about these concepts, please don't hesitate to ask, chime in and someone will be glad to explain :-\)
+As a Kiwi-initiated adventure whose membership now spans many nations, we acknowledge Te Tiriti o Waitangi, the special relationship Tangata Whenua have with Aotearoa (New Zealand) and the indigenous sovereignty in many nations. \
+\
+International collaborators may occasionally come across Māori words or phrases which you may not be familiar with, but which have entered the mainstream vernacular here in Aotearoa. If you didn't understand something or want to know more about these concepts, please don't hesitate to ask, chime in and someone will be glad to explain :-)
 
 _The practices of people who lived together, depending on- and in collaboration with- one another and the natural world is rarely more vital, more radical and revolutionary in all of history than it is today._
-
